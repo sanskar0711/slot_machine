@@ -1,4 +1,5 @@
 Slot Machine Game
+
 This is a simple console-based slot machine game implemented in JavaScript. The game allows users to deposit money, place bets, and spin the slot machine to try their luck.
 
 Features
